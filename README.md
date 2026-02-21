@@ -14,7 +14,7 @@
 
 - 🎮 I'm an aspiring **Game Developer**
 - 💻 I want to major in **Computer Science**
-- 🏔 Based in **Denver, Colorado**
+- 🏔 Based in **Denver, CO**
 - ⚽ I play Competitive **Soccer**
 - 🧑‍💻 Owner of the Hulstrom Demon **List**
 
