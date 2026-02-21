@@ -16,6 +16,7 @@
 - 💻 I want to major in **Computer Science**
 - 🏔 Based in **Denver, Colorado**
 - ⚽ I play Competitive **Soccer**
+- 📗 Owner of the Hulstrom Demon **List**
 
 ## Languages, Frameworks, and Libraries I Know
 
