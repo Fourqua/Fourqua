@@ -80,7 +80,7 @@
 ---
 
 ## Contact Me
-
+<p align="center">
   <a href="https://discord.com/users/787631941775392779">
     <img src="https://img.shields.io/badge/Discord-38BDF8?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
