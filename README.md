@@ -24,18 +24,18 @@
 ## Tech
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" title="HTML5"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" title="CSS3"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="44" title="Lua"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" title="Python"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" title="React"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" title="Node.js"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="44" title="Express"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" title="Bash"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="44" title="Three.js"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="44" title="GraphQL"/>
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=html5&logoColor=E34F26" title="HTML5"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=css3&logoColor=1572B6" title="CSS3"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6" title="TypeScript"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=lua&logoColor=2C2D72" title="Lua"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB" title="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB" title="React"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=339933" title="Node.js"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=express&logoColor=ffffff" title="Express"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=4EAA25" title="Bash"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=threedotjs&logoColor=ffffff" title="Three.js"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=graphql&logoColor=E10098" title="GraphQL"/>
 </p>
 
 ---
@@ -43,17 +43,17 @@
 ## Tools
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" title="VSCode"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="44" title="PyCharm"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" title="npm"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="44" title="Blender"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="44" title="Notion"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="44" title="Windows"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" title="Linux"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" title="Git"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" title="GitHub"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/ios-filled/100/ffffff/roblox.png" height="44" title="Roblox"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="44" title="Discord"/>
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" title="VSCode"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=pycharm&logoColor=21D789" title="PyCharm"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=npm&logoColor=CB3837" title="npm"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=blender&logoColor=F5792A" title="Blender"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=notion&logoColor=ffffff" title="Notion"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=windows&logoColor=0078D6" title="Windows"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=linux&logoColor=FCC624" title="Linux"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=github&logoColor=ffffff" title="GitHub"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=roblox&logoColor=ffffff" title="Roblox"/>&nbsp;
+<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=discord&logoColor=5865F2" title="Discord"/>
 </p>
 
 ---
