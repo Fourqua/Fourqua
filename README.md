@@ -10,16 +10,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38BDF8&height=120&section=header"/>
 </p>
 
----
-
 ## About Me
 
 - 🎮 I'm an aspiring **Game Developer**
 - 💻 I want to major in **Computer Science**
 - 🏔 Based in **Denver, Colorado**
 - ⚽ I play Competitive **Soccer**
-
----
 
 ## Tech
 
@@ -37,8 +33,6 @@
 <img src="https://skillicons.dev/icons?i=threejs" height="50" title="Three.js"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=graphql" height="50" title="GraphQL"/>
 </p>
-
----
 
 ## Tools
 
