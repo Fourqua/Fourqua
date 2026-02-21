@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git" height="50" title="Git"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-1e1e2e?style=for-the-badge&logo=roblox&logoColor=ffffff&logoSize=auto" height="50" title="Roblox"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/roblox/ffffff" height="50" title="Roblox Studio" style="background:#1e1e2e;border-radius:10px;padding:6px"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=discord" height="50" title="Discord"/>
 </p>
 
