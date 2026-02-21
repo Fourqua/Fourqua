@@ -81,10 +81,6 @@
 
 ## Contact Me
 
-<p align="center">
-  <a href="mailto:rraayy69420@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://discord.com/users/787631941775392779">
     <img src="https://img.shields.io/badge/Discord-38BDF8?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
