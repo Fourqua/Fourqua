@@ -17,7 +17,7 @@
 - 🏔 Based in **Denver, Colorado**
 - ⚽ I play Competitive **Soccer**
 
-## Tech
+## Languages, Frameworks, and Libraries I Know
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML5"/>&nbsp;&nbsp;
@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=graphql" height="50" title="GraphQL"/>
 </p>
 
-## Tools
+## Tools I Know
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" title="VSCode"/>&nbsp;&nbsp;
