@@ -59,10 +59,6 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fourqua&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/>
 </p>
 
