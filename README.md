@@ -31,7 +31,10 @@
 <img src="https://skillicons.dev/icons?i=react" height="50" title="React"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=express" height="50" title="Express"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bash" height="50" title="Bash"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="50" title="Django"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="50" title="Firebase"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase" height="50" title="Supabase"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="50" title="Vite"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=threejs" height="50" title="Three.js"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=graphql" height="50" title="GraphQL"/>
 </p>
@@ -40,9 +43,11 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" title="VSCode"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=visualstudio" height="50" title="Visual Studio"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=pycharm" height="50" title="PyCharm"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=npm" height="50" title="npm"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=blender" height="50" title="Blender"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" height="50" title="Figma"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=notion" height="50" title="Notion"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=windows" height="50" title="Windows"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux"/>&nbsp;&nbsp;
@@ -51,7 +56,6 @@
 <img src="https://cdn.simpleicons.org/roblox/ffffff" height="50" title="Roblox Studio" style="background:#1e1e2e;border-radius:10px;padding:6px"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=discord" height="50" title="Discord"/>
 </p>
-
 ---
 
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fourqua&theme=tokyonight"/> </p> <p align="center"> <img width="100%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p>
