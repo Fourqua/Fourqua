@@ -17,7 +17,6 @@
 - 🏔 Based in **Denver, CO**
 - ⚽ I play Competitive **Soccer**
 - 🧑‍💻 Owner of the **Hulstrom Demon List**
-- 👾 Currently building a **Website**
 
 ## Languages, Frameworks, and Libraries I Know
 
