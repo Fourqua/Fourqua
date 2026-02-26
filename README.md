@@ -12,11 +12,7 @@
 
 ## About Me
 
-- 🎮 I'm an aspiring **Game Developer**
-- 💻 I want to major in **Computer Science**
-- 🏔 Based in **Denver, CO**
-- ⚽ I play Competitive **Soccer**
-- 🧑‍💻 Owner @ **Hulstrom Demon List**
+
 
 ## Languages, Frameworks, and Libraries I Know
 
