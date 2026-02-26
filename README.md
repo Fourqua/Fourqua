@@ -15,12 +15,9 @@
 - 🎮 I'm an aspiring **Game Developer**
 - 💻 I want to major in **Computer Science**
 - 🏔 Based in **Denver, CO**
+- - 📗 I can speak **English, Spanish, and Farsi**
 - ⚽ I play Competitive **Soccer**
 - 🧑‍💻 Owner @ **Hulstrom Demon List**
-
----
-
-<h1 align="center">My Tech Stack</h1>
 
 ## Languages, Frameworks, and Libraries I Know
 
