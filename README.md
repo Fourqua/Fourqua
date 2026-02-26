@@ -18,6 +18,10 @@
 - ⚽ I play Competitive **Soccer**
 - 🧑‍💻 Owner @ **Hulstrom Demon List**
 
+---
+
+<h1 align="center">My Tech Stack</h1>
+
 ## Languages, Frameworks, and Libraries I Know
 
 <p align="left">
