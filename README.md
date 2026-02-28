@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38BDF8&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38BDF8&height=120&section=header"/
 </p>
 
 ## About Me
