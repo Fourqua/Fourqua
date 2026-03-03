@@ -22,7 +22,7 @@
 ## Languages, Frameworks, and Libraries I Know
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html" height="50" title="HTML5"/>&nbsp;&nbsp:
+<img src="https://skillicons.dev/icons?i=html" height="50" title="HTML5"/>&nbsp;&nbsp
 <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS3"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js" height="50" title="JavaScript"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=ts" height="50" title="TypeScript"/>&nbsp;&nbsp;
