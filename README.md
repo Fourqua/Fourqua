@@ -18,7 +18,7 @@
 - 📗 I can speak **English, Spanish, and Farsi**
 - ⚽ I play Competitive **Soccer**
 - 🧑‍💻 Owner @ **Hulstrom Demon List**
-- 👨‍💻 Owner @ **Geometry Wave List**\
+- 👨‍💻 Owner @ **Geometry Wave List**
 
 ## Languages, Frameworks, and Libraries I Know
 
