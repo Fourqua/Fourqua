@@ -1,6 +1,6 @@
 <h1 align="center">𝟦𝓆𝓊𝒶</h1>
 
-<h3 align="center">Four-qua • Denver, CO</h3>//
+<h3 align="center">Four-qua • Denver, CO</h3>///
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Game+Developer;Future+Computer+Scientist;Building+Interactive+Worlds;Multiplayer+Systems+Engineer;Soccer+%2B+Code+%3D+Balance" /
