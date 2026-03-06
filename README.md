@@ -66,7 +66,7 @@
  <p align="center"> <img width="100%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p>
 
 
-##Contact Me
+## Contact Me
 
 <p align="center">
   <a href="https://discord.com/users/787631941775392779">
