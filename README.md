@@ -1,4 +1,4 @@
-/<h1 align="center">𝟦𝓆𝓊𝒶</h1>
+/<h1 align="center">𝟦𝓆𝓊𝒶</h1>f
 
 <h3 align="center">Four-qua • Denver, CO</h3>
 
