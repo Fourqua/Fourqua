@@ -32,12 +32,10 @@
 <img src="https://skillicons.dev/icons?i=react" height="50" title="React"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=express" height="50" title="Express"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" height="50" title="Django"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=firebase" height="50" title="Firebase"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=supabase" height="50" title="Supabase"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vite" height="50" title="Vite"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=threejs" height="50" title="Three.js"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=graphql" height="50" title="GraphQL"/>
 </p>
 
 ## Tools I Know
