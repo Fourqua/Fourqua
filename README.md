@@ -5,7 +5,6 @@
 
 
 
-
 <h3 align="center">Fourqua • Denver, Colorado</h3>
 
 <p align="center">
