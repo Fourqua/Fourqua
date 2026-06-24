@@ -16,7 +16,7 @@
 - 🏔 Based in **Denver, CO**
 - 🧑‍💻 Owner @ **Hulstrom Demon List**
 
-PS: I'm on a big break, hoping to come back soon. I'm going to be making commits here and there
+PS: I'm on a big break, hoping to come back soon. I'm going to be making commits here and there, but don't expect much activity for the next 2-3 months. 
 
 ## Languages, Frameworks, and Libraries I Know
 
