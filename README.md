@@ -1,5 +1,6 @@
 <h1 align="center">𝟦𝓆𝓊𝒶</h1>
 
+
 <h3 align="center">Fourqua • Denver, Colorado</h3>
 
 <p align="center">
