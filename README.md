@@ -1,5 +1,5 @@
-<h1 align="center">Filled</h1>
-<h3 align="center">FilledDown • Denver, Colorado</h3>
+<h1 align="center">4qua</h1>
+<h3 align="center">Fourqua • Denver, Colorado</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=+Developer;+Computer+Science;+Creating+Systems;+Startup;+other+stuff+ig+idrk+%2B+Code+%3D+Balance">
